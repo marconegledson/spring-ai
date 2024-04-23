@@ -52,7 +52,7 @@ public class FlagService {
           "country", jsonMap.get("country"),
           "flagColors", jsonMap.get("flag_colors"),
           "description", jsonMap.get("description"),
-          "created", jsonMap.get("country")
+          "created", jsonMap.get("created")
       );
     }
   }
