@@ -1,0 +1,62 @@
+[
+  {
+    "country": "United States",
+    "flag_colors": ["#B22234", "#FFFFFF", "#3C3B6E"],
+    "description": "The flag of the United States consists of thirteen equal horizontal stripes of red alternating with white, with a blue rectangle in the canton (referred to specifically as the 'union') bearing fifty small, white, five-pointed stars arranged in nine offset horizontal rows, where rows of six stars alternate with rows of five stars.",
+    "created": "June 14, 1777"
+  },
+  {
+    "country": "United Kingdom",
+    "flag_colors": ["#BF0A30", "#FFFFFF", "#00247D"],
+    "description": "The flag of the United Kingdom, often referred to as the Union Jack, consists of a red cross on a white background, with a blue field with white diagonal cross in the corner.",
+    "created": "February 25, 1801"
+  },
+  {
+    "country": "Canada",
+    "flag_colors": ["#FF0000", "#FFFFFF"],
+    "description": "The flag of Canada, often simply referred to as the Maple Leaf, consists of two vertical red bands on the sides and a red 11-pointed maple leaf in the center, on a white background.",
+    "created": "February 15, 1965"
+  },
+  {
+    "country": "Brazil",
+    "flag_colors": ["#008542", "#FFCC29", "#FFFFFF", "#002776"],
+    "description": "The flag of Brazil consists of a green field with a yellow rhombus in the center, containing a blue globe with 27 white, five-pointed stars arranged in the same pattern as the night sky over Rio de Janeiro on November 15, 1889.",
+    "created": "November 19, 1889"
+  },
+  {
+    "country": "France",
+    "flag_colors": ["#0055A4", "#FFFFFF", "#EF4135"],
+    "description": "The flag of France, often referred to as the Tricolour, consists of three vertical stripes of equal width, displaying the country's national colors: blue, white, and red.",
+    "created": "February 15, 1794"
+  },
+  {
+    "country": "Germany",
+    "flag_colors": ["#000000", "#FFCE00", "#D00C33"],
+    "description": "The flag of Germany, often referred to as the Bundesflagge, consists of three horizontal stripes of black, red, and gold.",
+    "created": "May 23, 1949"
+  },
+  {
+    "country": "Australia",
+    "flag_colors": ["#00008B", "#FFFFFF", "#FF0000"],
+    "description": "The flag of Australia consists of a blue field with the Union Jack in the canton and a large white seven-pointed star known as the Commonwealth Star below it, representing the federation of the colonies of Australia on 1 January 1901.",
+    "created": "September 3, 1901"
+  },
+  {
+    "country": "Italy",
+    "flag_colors": ["#009246", "#FFFFFF", "#CE2B37"],
+    "description": "The flag of Italy, often referred to as il Tricolore, consists of three vertical stripes of green, white, and red, with the green being hoist side, and the white stripe in the middle.",
+    "created": "January 1, 1948"
+  },
+  {
+    "country": "China",
+    "flag_colors": ["#FFDE00", "#DE2910"],
+    "description": "The flag of China, often referred to as the Five-starred Red Flag, consists of a red field with five yellow stars in the canton, representing the unity of the Chinese people under the leadership of the Communist Party of China.",
+    "created": "September 27, 1949"
+  },
+  {
+    "country": "Japan",
+    "flag_colors": ["#FFFFFF", "#DC143C"],
+    "description": "The flag of Japan, often referred to as Nisshōki or Hinomaru, consists of a white rectangular field with a red circular disc in the center, symbolizing the rising sun and unity of the Japanese people.",
+    "created": "August 13, 1999"
+  }
+]
